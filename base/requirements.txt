@@ -1,19 +1,19 @@
 #Third party package requirements for OpenEats 2
-Django==2.1.7
-django-imagekit==4.0.1
-djangorestframework==3.9.1
+Django==3.1.3
+django-imagekit==4.0.2
+djangorestframework==3.12.2
 djangorestframework-bulk==0.2.1
 djangorestframework-jwt==1.11.0
-django-filter==2.1.0
-django-extensions==1.9.9
-django-cors-headers==1.3.1
+django-filter==2.4.0
+django-extensions==3.1.0
+django-cors-headers==3.6.0
 
-coreapi-cli==1.0.6
-gunicorn==19.6.0
-requests==2.20.0
-six==1.10.0
-Pillow==5.1.0
-mysqlclient
-mock==2.0.0
-pytz==2016.10
-python-dateutil==2.6.1
+coreapi-cli==1.0.9
+gunicorn==20.0.4
+requests==2.25.1
+six==1.15.0
+Pillow==8.0.1
+mysqlclient==2.0.2
+mock==4.0.3
+pytz==2020.4
+python-dateutil==2.8.1
