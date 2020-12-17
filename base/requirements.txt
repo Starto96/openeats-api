@@ -12,7 +12,7 @@ coreapi-cli==1.0.6
 gunicorn==19.6.0
 requests==2.20.0
 six==1.10.0
-Pillow==5.1.0
+Pillow==7.1.0
 mysqlclient
 mock==2.0.0
 pytz==2016.10
